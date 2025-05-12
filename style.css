@@ -1,0 +1,26 @@
+/* Selector 1: ID selector */
+#main-header{
+    background-color: purple;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    text-size-adjust: bold;
+}   
+
+/* Selector 2: Class selector */
+.styled-image{
+    margin: 20px auto;
+    padding: 10px;
+    border: 2px solid #333;
+    display: block;
+    max-width: 300px;
+}
+
+/* Selector 3: Class selector for paragraph */
+.info-text{
+    font-family: "Lato", sans-serif;
+    font-size: 18px;
+    color: burlywood;
+    line-height: 1.6;
+    margin: 10px 20px;
+}
